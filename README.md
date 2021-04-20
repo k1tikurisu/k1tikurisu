@@ -1,4 +1,4 @@
-# 👋 Daiki Maekawa
+# 😪 Daiki Maekawa
 I'm interested in becoming a Front end web developer & more!
 
 [![](https://raw.githubusercontent.com/Daaiki/Daaiki/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
