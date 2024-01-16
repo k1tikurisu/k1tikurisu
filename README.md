@@ -1,10 +1,5 @@
 <p align="center">
   <samp>
-    <a href="https://scrapbox.io/k1tikurisu/k1tikurisu">me</a> .
-    <a href="https://scrapbox.io/k1tikurisu">scrapbox</a> .
-    <a href="https://zenn.dev/k1tikurisu">zenn</a> .
-    <a href="https://qiita.com/k1tikurisu">qiita</a> .
-    <a href="https://twitter.com/k1tikurisu">twitter</a> .
-    <a href="https://instagram.com/k1tikurisu">instagram</a>
+    <a href="https://github.com/k1tikurisu?tab=overview&from=2024-01-01&to=2024-01-16">write code every day</a>
   </samp>
 </p>
