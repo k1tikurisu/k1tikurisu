@@ -1,3 +1,10 @@
-# Daiki Maekawa
-[![](https://raw.githubusercontent.com/Daaiki/Daaiki/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/Daaiki/Daaiki/main/profile-summary-card-output/vue/3-stats.svg)![](https://raw.githubusercontent.com/Daaiki/Daaiki/main/profile-summary-card-output/vue/1-repos-per-language.svg)
+<p align="center">
+  <samp>
+    <a href="https://scrapbox.io/k1tikurisu/k1tikurisu">me</a> .
+    <a href="https://scrapbox.io/k1tikurisu">scrapbox</a> .
+    <a href="https://zenn.dev/k1tikurisu">zenn</a> .
+    <a href="https://qiita.com/k1tikurisu">qiita</a> .
+    <a href="https://twitter.com/k1tikurisu">twitter</a> .
+    <a href="https://instagram.com/k1tikurisu">instagram</a>
+  </samp>
+</p>
